@@ -1,0 +1,1 @@
+ C:\\Users\\farfa\\Desktop\\proyecto_colon_unfv\\.dart_tool\\flutter_build\\ef76b4d0de438bf51d2fe08f264c18a0\\native_assets.json: 
